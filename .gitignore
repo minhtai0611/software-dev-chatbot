@@ -129,5 +129,5 @@ dist
 .yarn/install-state.gz
 .pnp.*
 
-#OPENAPIKEY
+# openai API KEY
 config.js
